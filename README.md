@@ -7,7 +7,7 @@ Practica 1: Introducción a Matlab
 en serie y paralelo.
 
 2. Escribir una función que calcule las raíces de una ecuación de segundo grado
-ax2 + bx + c = 0, donde a,b,c son parámetros de entrada.
+a*x^2 + b*x + c = 0, donde a,b,c son parámetros de entrada.
 
 3. Modificar la función del punto 1 para que acepte n valores de resistencias.
 
